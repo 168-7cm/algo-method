@@ -10,3 +10,4 @@
 
 ### ソートアルゴリズム
 - Q1-1（ https://algo-method.com/tasks/439 ）
+- Q2-4（ https://algo-method.com/tasks/490 ）
